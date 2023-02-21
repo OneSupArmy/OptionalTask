@@ -5,7 +5,7 @@ import java.util.stream.Stream;
 public class Main {
     public static void main(String[] args) {
         firstVariant();
-        //secondVariant();
+        secondVariant();
     }
     private static void firstVariant() {
         String sentence = "yourapp the quick brown fox jumps over the lazy dog";
